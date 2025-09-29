@@ -1,0 +1,11 @@
+
+# data & cache
+data/
+*.cache/
+__pycache__/
+*.ipynb_checkpoints/
+.DS_Store
+
+# secrets
+.env
+secrets.json
